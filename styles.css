@@ -32,8 +32,6 @@ body > div {
   background-color: var(--background-color);
   padding: 2rem;
   box-shadow: 0rem 0rem 1rem 1rem rgba(0, 0, 0, 0.2);
-  transition: background-color, margin, padding;
-  transition-duration: 2s;
   border-radius: 1rem;
 }
 
