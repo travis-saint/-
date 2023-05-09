@@ -22,20 +22,3 @@ a {
   text-decoration: none;
   color: var(--main-color);
 }
-
-header {
-  text-align: center;
-  margin: 1rem;
-  font-size: 2rem;
-  font-weight: 600;
-  color: var(--main-color);
-}
-header > span {
-  user-select: none;
-}
-
-main {
-  font-size: 0.8rem;
-  text-align: left;
-  margin: 1rem;
-}
